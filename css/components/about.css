@@ -1,0 +1,45 @@
+.about {
+  display: flex;
+  flex-direction: column;
+  gap: 4rem;
+  scroll-margin-top: 20rem;
+}
+
+.about_columns {
+  display: flex;
+  justify-content: space-between;
+  gap: 4rem;
+  flex-wrap: wrap;
+}
+
+.about .about_left,
+.about .about_right {
+  flex: 1;
+  min-width: 300px;
+}
+
+.about .about_left p,
+.about .about_right p {
+  margin: 1rem 0 2rem;
+}
+
+.about .about_center {
+  max-width: 100%;
+  text-align: center;
+  margin-top: 2rem;
+}
+@media only screen and (max-width: 768px) {
+  .about {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .about .about_left {
+    max-width: 66rem;
+    text-align: center;
+  }
+
+  .about .about_right {
+    text-align: center;
+  }
+}
