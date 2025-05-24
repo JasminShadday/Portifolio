@@ -33,5 +33,6 @@ Fique à vontade para me chamar em qualquer uma das redes listadas na seção **
 
 ⭐️ Não esqueça de deixar uma estrela no repositório se curtir!
 
-![image](https://github.com/user-attachments/assets/0be4fd36-c73e-4e99-8d11-8febac606ea4)
+![image](https://github.com/user-attachments/assets/18852227-f7ed-4b5c-93f3-8ed43f41f1c0)
+
 
