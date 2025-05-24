@@ -23,7 +23,7 @@ Meu foco é desenvolver soluções inteligentes, organizadas e com impacto real 
 - Power BI  
 - Git e GitHub  
 - HTML, CSS e JavaScript  
-- Cloud (em processo de aprendizagem - AWS)
+- Certificada em Cloud Practitioner - AWS
 
 ## 📫 Contato
 
@@ -31,7 +31,6 @@ Fique à vontade para me chamar em qualquer uma das redes listadas na seção **
 
 ---
 
-🔗 [Acesse meu portfólio online](https://jasminshadday.github.io/Portifolio/)  
 ⭐️ Não esqueça de deixar uma estrela no repositório se curtir!
 
 ![image](https://github.com/user-attachments/assets/0be4fd36-c73e-4e99-8d11-8febac606ea4)
